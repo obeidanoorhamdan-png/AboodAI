@@ -1,0 +1,4 @@
+.env
+database.json
+*.jpg
+__pycache__/
